@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APINETCORE", "APINETCORE\APINETCORE.csproj", "{464B7807-8CC5-4C95-8E43-4A4D9EEFF766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464B7807-8CC5-4C95-8E43-4A4D9EEFF766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464B7807-8CC5-4C95-8E43-4A4D9EEFF766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464B7807-8CC5-4C95-8E43-4A4D9EEFF766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464B7807-8CC5-4C95-8E43-4A4D9EEFF766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43024BC5-D482-42A7-A851-87E71473BB59}
+	EndGlobalSection
+EndGlobal
